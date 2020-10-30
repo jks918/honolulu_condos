@@ -1,0 +1,136 @@
+name,location.latitude,location.longitude,Number of Floors,Status,Year Built,Height in feet,Number of Units
+1001 Wilder,21.309074,-157.842955,17,completed,1964,132,68
+1010 Wilder,21.309229,-157.842077,18,completed,1974,183,42
+1015 Wilder I,21.308596,-157.842613,12,completed,1988,122,58
+1015 Wilder II,21.308596,-157.842613,12,completed,1988,122,58
+1133 Waimanu,21.294751,-157.850361,26,completed,1996,264,282
+1350 Ala Moana,21.29196,-157.848074,33,completed,1968,308,354
+1448 Young Street,21.299341,-157.838292,17,completed,1999,183,202
+1717 Ala Wai ,21.288194,-157.835536,31,completed,1970,265,283
+2121 Ala Wai Boulevard,21.283632,-157.828279,42,completed,1979,347,211
+215 North King ,21.314388,-157.864334,23,completed,2005,233,251
+2987 Kalakaua,21.260126,-157.819625,7,completed,1953,71,41
+3003 Kalakaua,21.259525,-157.819459,12,completed,1962,122,24
+3019 Kalakaua,21.259228,-157.81915,14,completed,1961,122,12
+3056 KalaKaua,21.258538,-157.818386,9,completed,1968,91,16
+400 Keawe St,21.299496,-157.861211,6,completed,2016,61,95
+444 Nahua,21.280197,-157.824864,22,completed,1976,223,192
+801 South Street Building A,21.30270004,-157.8565521,46,completed,2015,413,635
+801 South Street Building B,21.3024292,-157.8556671,46,completed,2017,413,410
+A'ali'i,21.296141,-157.853281,42,under construction,2021,418,751
+Admiral Thomas Condominiums,21.303938,-157.847314,34,completed,1980,345,149
+AE'O,21.295219,-157.852938,41,completed,2018,400,466
+Ala Wai Plaza Skyrise,21.286803,-157.827216,25,completed,1970,333,349
+Allure Waikiki,21.287597,-157.834246,35,completed,2010,320,300
+Aloha Diamond Head Tower,21.281801,-157.827569,19,completed,1976,193,197
+Aloha Ewa Tower,21.282468,-157.828057,30,completed,1976,304,197
+Aloha Lani Condominiums,21.282202,-157.82661,38,completed,1975,280,359
+Anaha,21.29397011,-157.852005,38,under construction,2017,400,311
+Atkinson Plaza,21.289927,-157.838104,18,completed,1979,183,127
+Atkinson Towers Inc ,21.288983,-157.839136,15,completed,1959,152,111
+Azure Ala Moana,21.294266,-157.841735,41,under construction,2021,400,410
+Banyan Tree Plaza,21.2994709,-157.835495,35,completed,1974,355,240
+Canterbury Place,21.28549957,-157.8352356,40,completed,1978,350,151
+Capitol Place,21.31081009,-157.858017,39,completed,2008,396,384
+Castle Surf Apartments,21.261255,-157.820634,6,completed,1966,61,28
+Chateau Waikiki,21.286838,-157.836251,38,completed,1974,349,460
+Colony Beach,21.262605,-157.821443,8,completed,1971,81,8
+Colony Surf,21.262319,-157.821147,20,completed,1960,203,180
+Coral Strand,21.260284,-157.819563,11,completed,1961,112,50
+Courtyards at Punahou,21.298277,-157.83254,12,completed,1993,122,35
+Cove Waikiki,21.286029,-157.83687,5,completed,2014,71,117
+Diamond Head Ambassador I,21.260758,-157.820256,6,completed,1956,61,89
+Diamond Head Ambassador II,21.260758,-157.820256,6,completed,1956,61,89
+Diamond Head Ambassador III,21.260758,-157.820256,6,completed,1956,61,89
+Diamond Head Apartments,21.260509,-157.819803,14,completed,1957,132,57
+Diamond Head Apartments,21.260509,-157.819803,14,completed,1957,101,57
+Diamond Head Vista,21.274261,-157.819233,37,completed,1975,322,173
+Discovery Bay Center - ResolutionCondominium,21.28536,-157.837993,42,completed,1977,350,665
+Discovery BayCenter- Endeavor Condominium,21.28565025,-157.8381958,42,completed,1976,350,665
+Fairway Villa,21.27968,-157.824094,28,completed,1974,284,362
+Foster Tower,21.274038,-157.823496,25,completed,1962,250,126
+Four Paddle,21.282364,-157.829238,25,completed,1974,254,250
+Harbor Court,21.30911064,-157.8635559,41,completed,1994,416,120
+Harbor Square,21.306082,-157.862427,26,completed,1970,275,360
+Hawaii City Plaza,21.296018,-157.843205,26,under construction,2022,263,163
+Hawaii Ocean Plaza,21.294208,-157.844094,40,under construction,2023,400,207
+Hawaiki Tower,21.29289055,-157.8473358,46,completed,1999,400,417
+Hokua at 1288 Ala Moana,21.29227066,-157.8499603,41,completed,2006,418,248
+Honolulu Park Place,21.31266022,-157.8600311,40,completed,1989,350,437
+Honolulu Tower,21.313237,-157.860469,41,completed,1982,350,396
+Ilikai Apartments,21.284388,-157.838449,30,completed,1963,260,1011
+Ilikai Marina,21.285268,-157.839519,18,under construction,1968,183,256
+Illilani,21.301073,-157.858352,42,under construction,2022,334,328
+Imperial Plaza,21.30080032,-157.8547363,36,completed,1990,400,261
+Iolani Court Plaza,21.286965,-157.824062,38,completed,1980,341,341
+Kainalu Apartments,21.257925,-157.81856,8,completed,1958,81,59
+Kapiolani Residence,21.29133,-157.839172,45,completed,2018,414,485
+Ke Kilohana,21.296958,-157.855623,43,completed,2019,418,424
+Keauhou Place,21.301547,-157.860009,43,completed,2017,400,423
+Keola Lai,21.30208015,-157.857193,43,completed,2008,387,350
+Ko'olani,21.29347992,-157.8491669,48,completed,2005,416,370
+Ko'ula,21.295596,-157.854281,41,under construction,2022,416,565
+Kukui Plaza Diamond Ewa Tower,21.31226921,-157.8594208,33,completed,1976,333,938
+Kukui Plaza Diamond Head Tower,21.3120594,-157.858429,32,completed,1976,325,938
+Lanikea at Waikiki,21.283672,-157.830317,29,completed,2005,300,96
+Leisure Heritage Apartments,21.276011,-157.820138,16,completed,1974,162,69
+Liliuokalani Gardens KingTower,21.27512,-157.819382,24,completed,1984,243,385
+Liliuokalani Gardens Queen Tower,21.27512,-157.819382,24,completed,1984,243,385
+Loft at Waikiki,21.283263,-157.828652,6,completed,2007,61,36
+Luana Waikiki,21.283724,-157.832089,17,completed,1971,172,217
+Mandarin Oriental Honolulu,21.290676,-157.837956,36,under construction,,0,107
+Marco Polo Residences,21.287563,-157.828474,36,completed,1971,365,586
+Moana Pacific East Tower,21.29622078,-157.846283,46,completed,2007,422,688
+Moana Pacific West Tower,21.2958107,-157.847168,46,completed,2007,422,688
+Monte Vista,21.277113,-157.820903,23,completed,1977,233,90
+Mott-Smith Laniloa,21.308494,-157.837433,34,completed,1976,303,428
+Nauru Tower,21.2919693,-157.8488617,44,completed,1990,418,314
+Nine O Nine Kapiolani,21.29807091,-157.852478,33,completed,2007,345,225
+Oceanside Manor,21.259302,-157.819305,10,completed,1963,101,18
+One Ala Moana,21.291998,-157.841253,22,completed,2014,233,206
+One Archer Lane,21.302391,-157.852311,41,completed,1997,400,331
+One Waterfront Tower - Makai,21.29995918,-157.8616028,45,completed,1990,400,310
+One Waterfront Tower - Mauka,21.30035973,-157.861084,45,completed,1990,400,310
+Pacifica Honolulu,21.29673004,-157.8514404,46,completed,2011,418,492
+Park Lane Ala Moana,21.291428,-157.847366,8,completed,2017,117,215
+Parkside Tower,21.291744,-157.828164,25,completed,1980,243,88
+Puanhou Cliffs,21.303061,-157.834212,11,completed,1984,112,80
+Queen Emma Gardens - King Tower,21.314512,-157.855677,22,completed,1964,233,582
+Queen Emma Gardens - Prince Tower,21.314512,-157.855677,22,completed,1964,122,582
+Queen Emma Gardens - Queen Tower,21.314512,-157.855677,22,completed,1964,233,582
+Queen Victoria Residences,21.302898,-157.845785,16,completed,1990,162,51
+Regency on Beachwalk,21.280072,-157.830882,9,completed,1961,0,48
+Royal Capitol Plaza,21.302012,-157.855622,39,completed,1987,396,299
+Royal Court,21.30142,-157.851173,17,completed,1970,172,112
+Royal Iolani Diamond Head Tower,21.2858696,-157.8234863,38,completed,1978,350,295
+Royal Iolani Ewa Tower,21.2864399,-157.8240662,38,completed,1978,350,296
+Sans Souci,21.262908,-157.82137,15,completed,1960,142,10
+Seabreeze Apartments,21.258088,-157.81868,11,completed,1959,112,0
+Sky Ala Moana East Tower,21.294186,-157.843589,43,under construction,2022,416,615
+Sky Ala Moana West Tower,21.294186,-157.843589,43,under construction,2022,416,615
+Summer Palace,21.28883,-157.837677,25,completed,1976,254,146
+Sunset Towers,21.289464,-157.839234,20,completed,1969,203,81
+Symphony Honolulu,21.29985046,-157.8525696,45,completed,2016,400,388
+Tahitienne,21.259681,-157.819494,9,completed,1957,91,31
+The Central Ala Moana,21.293054,-157.844173,43,under construction,2021,436,512
+The Collection,21.29880905,-157.8622742,43,completed,2016,422,397
+The Pinnacle Honolulu,21.31019974,-157.8586884,36,completed,2008,375,38
+"The Ritz-Carlton Residences, Waikiki Beach, East Tower",21.28223038,-157.829834,38,completed,2016,362,308
+The Villa on Eaton Square,21.287135,-157.836095,36,completed,1974,335,425
+The Waiea,21.29360008,-157.8540039,36,completed,2017,418,171
+The Watermark Waikiki,21.28742981,-157.8380737,38,completed,2008,373,212
+The Windsor,21.28598976,-157.8373413,44,completed,1983,350,181
+Trump International Hotel Waikiki Beach Walk,21.279626,-157.832051,38,completed,2009,368,462
+Uraku Tower,21.29393,157.845664,29,completed,1990,294,92
+Vanguard Lofts,21.3015,-157.854173,6,completed,2009,61,36
+Victoria Place,21.293694,-157.854745,0,under construction,0,418,350
+Waihonua at Kewalo,21.29328918,-157.8483124,43,completed,2015,418,345
+Waikiki Banyan MakaiTower,21.274856,-157.821056,37,completed,1979,350,877
+Waikiki Banyan Mauka Tower,21.274856,-157.821056,37,completed,1979,350,877
+Waikiki Beach Tower,21.275093,-157.823968,39,completed,1984,347,140
+Waikiki Landmark,21.28822,-157.834132,35,completed,1993,320,217
+Waikiki Shore,21.278579,-157.833036,15,completed,1960,152,0
+Waikiki Sunset,21.274375,-157.820542,37,completed,1979,341,435
+Waipuna Apartments,21.286874,-157.834585,38,completed,1971,343,406
+Yacht Harbor Tower I,21.28862,-157.8397064,40,completed,1973,350,459
+Yacht Harbor Tower II,21.28906059,-157.8406525,40,completed,1973,351,459
