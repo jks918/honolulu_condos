@@ -12,4 +12,5 @@ http://www.hicondos.com/hawaii-Condos/default.asp
 https://www.kakaako.com/search/advanced_search/
 
 3. Referenced the Emporis building database in order to obtain missing values:
+
 https://www.emporis.com/city/102596/honolulu-hi-usa/status/all-buildings
